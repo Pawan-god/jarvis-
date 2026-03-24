@@ -1,0 +1,14 @@
+.env
+output/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.mp4
+*.mp3
+*.wav
+*.egg-info/
+dist/
+build/
+.remotion/
